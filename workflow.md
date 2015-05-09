@@ -2,7 +2,7 @@
 
 这一章节中，我们将解释 AWK 是如何工作的。 要想成为 AWK 专家，你必须得了解其内部工作的原理。 AWK 执行的流程非常简单：读( Read )、执 行（ Execute )与重复( Repeat )。下面的流程图描述出了 AWK 的工作流程：
 
-![](awk_workflow.jpg)  
+![](./images/awk_workflow.jpg)  
 
 ###读（Read） 
  

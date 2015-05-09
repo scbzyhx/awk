@@ -59,8 +59,9 @@ else
 11 is odd number.
 ```  
 
-##if-else-if 阶梯
-我们可以很轻松地以 if-else-if 阶梯的方式使用多个　if-else　语句。示例如下：  
+##if-else-if 梯
+
+我们可以很轻松地使用多个 if-else 语句构造 if-else-if 梯从而实现多个条件的判断。示例如下：  
 
 ```
 [jerry]$ awk 'BEGIN {
